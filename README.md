@@ -1,16 +1,53 @@
-## Hi there 👋
+<h2>Olá, sou Charles Santos 👋</h2>
 
-<!--
-**CharlesSanto/CharlesSanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  Estudante de Ciência da Computação, em busca da primeira oportunidade de estágio na área de desenvolvimento de software.
+  Tenho interesse em aprender, evoluir tecnicamente e aplicar na prática os conhecimentos adquiridos na graduação e em projetos pessoais.
+</p>
 
-Here are some ideas to get you started:
+ ##
+ 
+<div>
+  
+  <h3>Tecnologias e Ferramentas</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div style="display: inline_block">
+    <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img align="center" alt="C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  </div>
+  
+  <br/>
+
+  <div style="display: inline_block">
+    <img alt="Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+    <img alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  </div>
+
+  <br/>
+
+  <div style="display: inline_block">
+    <img alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img alt="Visual Studio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+    <img alt="Rider" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
+  </div>
+
+</div>
+
+##
+
+<div>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=CharlesSanto&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesSanto&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"
+  />
+</div>
