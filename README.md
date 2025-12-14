@@ -56,7 +56,7 @@
 
 <div>
   <h2>Entre em contato comigo</h2>
-  <a href="https://www.linkedin.com/in/charlessantos2005" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/charlessantos2005" target="_blank">
       <img alt="LinkedIn" height="40" width="40"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
