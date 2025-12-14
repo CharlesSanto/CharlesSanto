@@ -51,3 +51,11 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesSanto&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"
   />
 </div>
+
+##
+
+<div>
+  <h2>Entre em contato comigo</h2>
+
+  <a href="www.linkedin.com/in/charlessantos2005" target="_blanket" ><img alt="Linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+</div>
