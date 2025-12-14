@@ -58,12 +58,12 @@
       <img alt="LinkedIn" height="40" width="40"
            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a href="mailto:coliveirasantos1234@gmail.com?subject=Contato%20FilmHub&body=Olá,%20gostaria%20de%20entrar%20em%20contato.">
+  <a href="mailto:coliveirasantos1234@gmail.com">
     <img
         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
         width="52"
         height="40"
         alt="Enviar e-mail"
     />
-</a>
+  </a>
 </div>
