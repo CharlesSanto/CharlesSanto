@@ -52,8 +52,6 @@
   />
 </div>
 
-##
-
 <div>
   <h2>Entre em contato comigo</h2>
   <a href="https://www.linkedin.com/in/charlessantos2005" target="_blank">
