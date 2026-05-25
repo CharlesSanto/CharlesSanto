@@ -1,4 +1,4 @@
-<h2>Olá, sou Charles Santos 👋</h2>
+<h2>Olá, sou Charles Santos</h2>
 
 <p>
   Estudante de Ciência da Computação, em busca da primeira oportunidade de estágio na área de desenvolvimento de software.
